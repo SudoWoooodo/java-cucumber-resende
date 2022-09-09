@@ -13,7 +13,7 @@ public class Main {
     	for (int i = 0; i < N; i++) {
     		int x = key.nextInt();
 
-    		if (x == 0) eu = eu + "NULL";
+    		if (x == 0) eu = eu + "NULL\n";
 
     		    else if (x % 2 == 0 && x > 0) eu = eu + "EVEN POSITIVE \n";
 
