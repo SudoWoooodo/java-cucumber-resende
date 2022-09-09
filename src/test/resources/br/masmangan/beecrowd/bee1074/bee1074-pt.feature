@@ -17,7 +17,6 @@
 #
 # Please visit Gherkin By Example at https://github.com/gherkin-by-example
 # if you need additional information or have any questions.
-
 @system
 Feature: Bee1074 CLI
 
